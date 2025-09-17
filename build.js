@@ -18,7 +18,7 @@ const buildWithDefaults = (entryPoints, outdir, format = 'esm') => {
     sourcemap: true,
     plugins: [
       nodeExternalsPlugin(),
-      tsconfigPathsPlugin({ tsconfig: './tsconfig.json' }),
+      tsconfigPathsPlugin({ tsconfig: 'tsconfig.json' }),
     ],
     minify: false,
   });
