@@ -33,6 +33,7 @@ const buildWithDefaults = (entryPoints, outdir, format = 'esm') => {
     );
     await buildWithDefaults(['src/seed/seedFeature.ts'], 'dist/seed');
   } catch (err) {
+    console.error('Build failed:', err);
     process.exit(1);
   }
 })();
