@@ -18,7 +18,7 @@ const buildWithDefaults = (entryPoints, outdir, format = 'esm') => {
     sourcemap: true,
     plugins: [
       nodeExternalsPlugin(),
-      tsconfigPathsPlugin({ tsconfig: 'tsconfig.json' }),
+      tsconfigPathsPlugin({ tsconfig: './tsconfig.json' }),
     ],
     minify: false,
   });
@@ -33,7 +33,6 @@ const buildWithDefaults = (entryPoints, outdir, format = 'esm') => {
     );
     await buildWithDefaults(['src/seed/seedFeature.ts'], 'dist/seed');
   } catch (err) {
-    console.error(err);
     process.exit(1);
   }
 })();
