@@ -1,0 +1,204 @@
+{
+  "pregnancy_status": [
+    {
+      "week": 1,
+      "baby_development": "Body prepares for ovulation",
+      "moms_experience": "Track cycle, eat healthy, take prenatal vitamins (Folic Acid)"
+    },
+    {
+      "week": 2,
+      "baby_development": "Body prepares for ovulation",
+      "moms_experience": "Track cycle, eat healthy, take prenatal vitamins (Folic Acid)"
+    },
+    {
+      "week": 3,
+      "baby_development": "Poppy seed. Fertilization occurs, baby is a tiny ball of cells",
+      "moms_experience": "Avoid smoking/alcohol, begin prenatal care"
+    },
+    {
+      "week": 4,
+      "baby_development": "Sesame seed. Implantation, placenta starts forming",
+      "moms_experience": "May feel fatigue or spotting; take a pregnancy test"
+    },
+    {
+      "week": 5,
+      "baby_development": "Apple seed. Heart starts to beat, basic body systems form",
+      "moms_experience": "Eat iron-rich food, start gentle walks"
+    },
+    {
+      "week": 6,
+      "baby_development": "Lentil. Neural tube closes, arm/leg buds form",
+      "moms_experience": "Morning sickness starts; stay hydrated"
+    },
+    {
+      "week": 7,
+      "baby_development": "Blueberry. Brain grows fast, facial features start forming",
+      "moms_experience": "Rest well; eat small frequent meals"
+    },
+    {
+      "week": 8,
+      "baby_development": "Raspberry. Fingers/toes form, baby moves (you can't feel yet)",
+      "moms_experience": "Begin prenatal yoga; manage mood swings"
+    },
+    {
+      "week": 9,
+      "baby_development": "Green olive. Muscles forming, heart has 4 chambers",
+      "moms_experience": "Book your first prenatal visit if not done"
+    },
+    {
+      "week": 10,
+      "baby_development": "Prune. Vital organs formed, nails and hair begin",
+      "moms_experience": "Reduce caffeine; eat calcium-rich foods"
+    },
+    {
+      "week": 11,
+      "baby_development": "Fig. External genitals begin forming",
+      "moms_experience": "Manage food aversions; wear loose clothes"
+    },
+    {
+      "week": 12,
+      "baby_development": "Lime. Reflexes develop, baby moves hands/feet",
+      "moms_experience": "Time for NT scan; emotional changes normal"
+    },
+   {
+      "week": 13,
+      "baby_development": "Pea pod. Vocal cords form, organs mature",
+      "moms_experience": "Energy returns; plan light exercise"
+    },
+    {
+      "week": 14,
+      "baby_development": "Lemon. Baby starts sucking thumb",
+      "moms_experience": "Focus on protein & iron; feel less nausea"
+    },
+    {
+      "week": 15,
+      "baby_development": "Apple. Baby can sense light",
+      "moms_experience": "Start moisturizing belly to avoid stretch marks"
+    },
+    {
+      "week": 16,
+      "baby_development": "Avocado. Facial expressions develop",
+      "moms_experience": "Schedule second-trimester ultrasound"
+    },
+    {
+      "week": 17,
+      "baby_development": "Turnip. Fat builds up, skeleton hardens",
+      "moms_experience": "Stay active; avoid standing too long"
+    },
+    {
+      "week": 18,
+      "baby_development": "Bell pepper. Ears in place, may hear sounds",
+      "moms_experience": "May feel first flutters (“quickening”)"
+    },
+    {
+      "week": 19,
+      "baby_development": "Mango. Vernix (protective coating) forms",
+      "moms_experience": "Eat fiber to prevent constipation"
+    },
+    {
+      "week": 20,
+      "baby_development": "Banana. Midway! Anatomy scan week",
+      "moms_experience": "Discuss childbirth classes with partner"
+    },
+    {
+      "week": 21,
+      "baby_development": "Carrot. Baby swallows amniotic fluid",
+      "moms_experience": "Manage backaches; support belt may help"
+    },
+    {
+      "week": 22,
+      "baby_development": "Coconut. Eyelashes/eyebrows visible",
+      "moms_experience": "Monitor weight gain; stay hydrated"
+    },
+    {
+      "week": 23,
+      "baby_development": "Grapefruit. Lungs develop, skin still wrinkled",
+      "moms_experience": "Practice pelvic floor exercises"
+    },
+    {
+      "week": 24,
+      "baby_development": "Ear of corn. Viability begins (NICU possible)",
+      "moms_experience": "Screen for gestational diabetes"
+    },
+    {
+      "week": 25,
+      "baby_development": "Cauliflower. Baby's hands grasp, sense of balance",
+      "moms_experience": "Take breaks while walking; swelling may start"
+    },
+    {
+      "week": 26,
+      "baby_development": "Lettuce. Baby opens eyes, brain develops fast",
+      "moms_experience": "Monitor leg cramps; hydrate well"
+    },
+    {
+      "week": 27,
+      "baby_development": "Cucumber. Sleep/wake cycle starts",
+      "moms_experience": "Start birth plan research"
+    },
+    {
+      "week": 28,
+      "baby_development": "Eggplant. Brain activity, eyes blink",
+      "moms_experience": "Time for third trimester scan"
+    },
+    {
+      "week": 29,
+      "baby_development": "Butternut squash. Baby's bones harden, kicks stronger",
+      "moms_experience": "Practice breathing exercises"
+    },
+    {
+      "week": 30,
+      "baby_development": "Cabbage. Lungs and digestive system maturing",
+      "moms_experience": "Discuss hospital bag checklist"
+    },
+    {
+      "week": 31,
+      "baby_development": "Pineapple. Sleep patterns form",
+      "moms_experience": "Prepare for maternity leave"
+    },
+    {
+      "week": 32,
+      "baby_development": "Jicama. Baby stores fat, practices breathing",
+      "moms_experience": "Count baby kicks daily"
+    },
+    {
+      "week": 33,
+      "baby_development": "Celery bunch. Skull soft, brain continues to grow",
+      "moms_experience": "Pack hospital bag, limit stress"
+    },
+    {
+      "week": 34,
+      "baby_development": "Cantaloupe. Immune system develops",
+      "moms_experience": "Monitor fetal movement; rest often"
+    },
+    {
+      "week": 35,
+      "baby_development": "Honeydew melon. Baby's position shifts downward",
+      "moms_experience": "Confirm delivery arrangements"
+    },
+    {
+      "week": 36,
+      "baby_development": "Romaine lettuce. Baby “engages” into pelvis",
+      "moms_experience": "Attend prenatal checkups weekly"
+    },
+    {
+      "week": 37,
+      "baby_development": "Swiss chard. Full term; organs ready",
+      "moms_experience": "Watch for labor signs; rest often"
+    },
+    {
+      "week": 38,
+      "baby_development": "Leek. Baby gains weight rapidly",
+      "moms_experience": "Birth plan finalized"
+    },
+    {
+      "week": 39,
+      "baby_development": "Mini watermelon. Lanugo gone, baby practices breathing",
+      "moms_experience": "Stay calm; contractions may start"
+    },
+    {
+      "week": 40,
+      "baby_development": "Pumpkin. Baby is ready to be born!",
+      "moms_experience": "Go to hospital if labor starts"
+    }
+  ]
+}

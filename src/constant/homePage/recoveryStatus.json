@@ -1,0 +1,70 @@
+{
+  "miscarriage": [
+    {
+      "week": 1,
+      "overview": "Bleeding/cramps may be heaviest. Rest, hydrate, and follow your care plan."
+    },
+    {
+      "week": 2,
+      "overview": "Bleeding and cramping often ease. Gentle movement and warm drinks can help."
+    },
+    {
+      "week": 3,
+      "overview": "Light spotting can linger; energy slowly returns. Mood waves are normal."
+    },
+    {
+      "week": 4,
+      "overview": "Many finish bleeding now. First period may return anytime in 4–8 weeks."
+    },
+    {
+      "week": 5,
+      "overview": "Hormones settle; sleep and steady meals support your mood and energy."
+    },
+    {
+      "week": 6,
+      "overview": "If advised, complete follow-up. Ease back to usual activity at your pace."
+    },
+    {
+      "week": 7,
+      "overview": "Strength rebuilds; try light exercise or stretching if it feels comfortable."
+    },
+    {
+      "week": 8,
+      "overview": "Many feel physically recovered; feelings can still ebb and flow—be gentle."
+    }
+  ],
+  "abortion": [
+    {
+      "week": 1,
+      "overview": "Cramping and bleeding are common; rest, hydrate, and be gentle with yourself."
+    },
+    {
+      "week": 2,
+      "overview": "Bleeding usually lightens; pregnancy symptoms often begin to fade."
+    },
+    {
+      "week": 3,
+      "overview": "Light spotting can linger; simple routines (sleep, meals, short walks) help steadiness."
+    },
+    {
+      "week": 4,
+      "overview": "Most bleeding ends; a first period may return in 4–8 weeks, and fertility can return sooner."
+    },
+    {
+      "week": 5,
+      "overview": "Energy often improves; check in with emotions and lean on support you trust."
+    },
+    {
+      "week": 6,
+      "overview": "Many feel physically recovered; keep following any after-care guidance that fits your plan."
+    },
+    {
+      "week": 7,
+      "overview": "Strength continues to rebuild; gentle movement and hydration can support your mood."
+    },
+    {
+      "week": 8,
+      "overview": "Many feel physically settled; feelings may still ebb and flow—go at your own pace."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pregnant": [
+    "What's safe to eat for this week?",
+    "Are there any food to avoid?",
+    "Can you share tips on sleep?",
+    "How do i support my partner?"
+  ],
+  "caregiver": [
+    "What's safe to eat for this week?",
+    "How can i support her today?",
+    "What do i say when i don't know what to say?",
+    "How can i connect more deeply with her?"
+  ],
+  "miscarriage": [
+    "Why did i still feel so numb?",
+    "Is it okay to grieve in waves",
+    "What shoul i do to care for myself today?",
+    "Can i try again someday?"
+  ],
+  "abortion": [
+    "What does recovery look like?",
+    "Why do i feel this way?",
+    "How do i talk aboutb this (or not)?",
+    "What kind of support is safe for me?"
+  ],
+  "fertility": [
+    "What helps during the two-week wait?",
+    "How do I cope with disappointment?",
+    "Is it okay to feel hope and fear together?",
+    "What are some ways to reduce stress?"
+  ]
+}
