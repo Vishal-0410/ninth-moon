@@ -6,6 +6,7 @@
   "scripts": {
     "type-check": "tsc --noEmit",
     "build": "npm run type-check && node build.js",
+    "dev:build": "npm run type-check && node build.js",
     "start:api": "node dist/index.js",
     "start:account-worker": "node dist/workers/accountWorker.js",
     "start:notification-worker": "node dist/workers/notificationWorker.js",
